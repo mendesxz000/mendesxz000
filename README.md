@@ -13,4 +13,4 @@ Meu nome é Flavio Henrique
 
 @fhzinhg
 
-![descrição do GIF](link GIF do Tenor)
+https://media1.tenor.com/m/mCiM7CmGGI4AAAAC/naruto.gif
